@@ -29,8 +29,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM:
-### Name: AFSAR JUMAIL S
-### Reference No: 212222240004
+### Name: R.THIVAKAR
+### Reference No: 212222240109
 ```
 from google.colab import auth
 import gspread
